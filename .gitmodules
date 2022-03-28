@@ -1,0 +1,16 @@
+[submodule "Middlewares/ST/STM32_USB_Device_Library"]
+	path = Middlewares/ST/STM32_USB_Device_Library
+	url = https://github.com/STMicroelectronics/stm32_mw_usb_device
+	branch = master
+[submodule "Drivers/CMSIS/Device/ST/STM32L5xx"]
+	path = Drivers/CMSIS/Device/ST/STM32L5xx
+	url = https://github.com/STMicroelectronics/cmsis_device_l5.git
+	branch = master
+[submodule "Drivers/STM32L5xx_HAL_Driver"]
+	path = Drivers/STM32L5xx_HAL_Driver
+	url = https://github.com/STMicroelectronics/stm32l5xx_hal_driver.git
+	branch = master
+[submodule "Middlewares/ST/OpenBootloader"]
+	path = Middlewares/ST/OpenBootloader
+	url = https://github.com/STMicroelectronics/stm32-mw-openbl.git
+	branch = main
